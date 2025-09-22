@@ -1,0 +1,4 @@
+# ninja log v7
+21	26345	7801729184836051	C:/Users/Waldo/simple_nn_pycud/lib_extension/build/temp.win-amd64-cpython-311/Release/cublas_utils.obj	4fdcd90e5be4c397
+30	26686	7801729184936972	C:/Users/Waldo/simple_nn_pycud/lib_extension/build/temp.win-amd64-cpython-311/Release/lib_extension.obj	c7f2862ed84c9d8b
+39	76486	7801729185027335	C:/Users/Waldo/simple_nn_pycud/lib_extension/build/temp.win-amd64-cpython-311/Release/lib_extension_kernel.obj	f0a6f026076fc9e8
