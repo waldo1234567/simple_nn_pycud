@@ -1,3 +1,21 @@
-__pycache__
-.vscode
+# Python
+__pycache__/
+*.pyc
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
 data
+
+# Extension / compiled
+*.so
+*.pyd
+*.dll
+*.obj
+*.o
+
+# Temp
+.vscode/
+.idea/
