@@ -5,9 +5,12 @@ This repo is a correctness-first, performance-aware example showing how to write
 
 ## Build
 ```bash
+cd lib_extension
+
 python setup.py build_ext --inplace
 
 python -m pip install -e .
+cd ..
 ```
 
 ## Run
