@@ -11,6 +11,15 @@ python setup.py build_ext --inplace
 
 python -m pip install -e .
 cd ..
+
+cd custom_extension
+
+python setup.py build_ext --inplace
+
+python -m pip install -e .
+
+cd ..
+
 ```
 
 ## Run
